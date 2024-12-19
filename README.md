@@ -61,19 +61,6 @@ The results are saved in a JSON file named `<video_filename>_output.json` in the
 
 ---
 
-## File Structure
-
-```plaintext
-video-shot-classification/
-│
-├── checkpoints/
-│   └── best_model.pth        # Trained model checkpoint
-├── inference.py              # Inference script
-├── train.py                  # Training script
-├── requirements.txt          # Required dependencies
-├── README.md                 # Project documentation
-└── sample_video.mp4          # Example video file (optional)
-```
 
 ---
 
