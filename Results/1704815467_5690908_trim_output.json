@@ -1,0 +1,36 @@
+{
+    "shots": [
+        {
+            "label": "Short_player",
+            "start_time": 0.0
+        },
+        {
+            "label": "long",
+            "start_time": 1.98
+        },
+        {
+            "label": "Short_player",
+            "start_time": 3.98
+        },
+        {
+            "label": "Closeup_head",
+            "start_time": 5.98
+        },
+        {
+            "label": "spectators_short",
+            "start_time": 6.98
+        },
+        {
+            "label": "Closeup_head",
+            "start_time": 9.98
+        },
+        {
+            "label": "spectators_short",
+            "start_time": 14.98
+        },
+        {
+            "label": "Closeup_waist",
+            "start_time": 15.98
+        }
+    ]
+}
