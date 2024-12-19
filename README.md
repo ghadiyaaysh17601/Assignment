@@ -61,9 +61,6 @@ The results are saved in a JSON file named `<video_filename>_output.json` in the
 
 ---
 
-
----
-
 ## Model Details
 
 - **Architecture:** EfficientFormerV2 (`efficientformerv2_s0.snap_dist_in1k`).
